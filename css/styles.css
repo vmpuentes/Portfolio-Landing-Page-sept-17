@@ -1,5 +1,5 @@
-.jumbotron {
-  text-align: center;
+.container {
+  background-image: imgage("../img/piano.jpg"); 
 }
 
 .boxmodel {
@@ -22,7 +22,7 @@ img.florida {
   text-align: left;
   font-size: 24px;
   margin: 18px;
-  font-family: 'Nosifer' cursive;
+  font-family: cursive;
   padding: 8px;
   background-color: #00ff00;
   border: 8px solid black;
