@@ -1,0 +1,30 @@
+.jumbotron {
+  text-align: center;
+}
+
+.boxmodel {
+  margin: 18px;
+  border: 8px solid black;
+  padding: 8px;
+  background-color: #00ff00;
+}
+
+.boxmodel {
+  float: left;
+}
+
+img.florida {
+  height: 400px;
+  width: 600px;
+}
+
+.panel {
+  text-align: left;
+  font-size: 24px;
+  margin: 18px;
+  font-family: 'Nosifer' cursive;
+  padding: 8px;
+  background-color: #00ff00;
+  border: 8px solid black;
+  background-image: image("../img/piano.jpg");
+}
