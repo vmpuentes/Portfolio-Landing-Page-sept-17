@@ -1,8 +1,23 @@
 .container {
-  background-image: imgage("../img/piano.jpg"); 
+  background-color: #0000aa;
+  background-image: image("../img/piano.jpg");
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  font-family: fantasy;
+}
+
+.jumbotron {
+  background-color: #aa00aa;
 }
 
 .boxmodel {
+  text-align: center;
+  float: right;
   margin: 18px;
   border: 8px solid black;
   padding: 8px;
