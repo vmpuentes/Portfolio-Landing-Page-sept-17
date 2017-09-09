@@ -1,12 +1,13 @@
-.container {
+.jumbotron {
   background-color: #0000aa;
-  background-image: image("../img/piano.jpg");
+  background-image: url("../img/piano.jpg");
 }
 h1 {
   text-align: center;
 }
 
 h2 {
+  color: #00ff00;
   font-size: 36px;
   font-family: fantasy;
 }
