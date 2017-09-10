@@ -1,19 +1,25 @@
+img.philly {
+  height: 400px;
+  width: 600px;
+}
+
 .jumbotron {
   background-color: #0000aa;
   background-image: url("../img/piano.jpg");
-}
-h1 {
   text-align: center;
 }
 
-h2 {
-  color: #00ff00;
-  font-size: 36px;
+h1.panel panel-primary {
+  text-align: center;
   font-family: fantasy;
+  font-size: 58px;
 }
 
-.jumbotron {
-  background-color: #aa00aa;
+h2 {
+  text-align: center;
+  color: black;
+  font-size: 68px;
+  font-family: cursive;
 }
 
 .boxmodel {
@@ -25,8 +31,9 @@ h2 {
   background-color: #00ff00;
 }
 
-.boxmodel {
-  float: left;
+img.philly {
+  height: 400px;
+  width: 600px;
 }
 
 img.florida {
