@@ -3,10 +3,12 @@ img.ballard {
   height: 400px;
   width: 600px;
 }
+.container {
+  background-image: url("../img/wc.jpg");
+}
+
 .jumbotron {
-  background-color: #0000aa;
   background-image: url("../img/piano.jpg");
-  text-align: right;
 }
 
 img.philly {
@@ -18,6 +20,7 @@ img.philly {
 h3 {
   font-size: 44px;
   text-align: center;
+  color:  #08ffbb;
 }
 
 h1.panel {
@@ -27,9 +30,8 @@ h1.panel {
 }
 
 h2 {
-  color: #0000aa;
+  color:  white;
   text-align: center;
-  color: black;
   font-size: 68px;
   font-family: cursive;
 }
@@ -40,7 +42,7 @@ h2 {
   margin: 18px;
   border: 8px solid black;
   padding: 8px;
-  background-color: #00ff00;
+  background-image: url("../img/wc.jpg">)
 }
 
 img.florida {
@@ -52,9 +54,13 @@ img.florida {
 .panel {
   text-align: left;
   font-size: 24px;
-  margin: 18px;
+  margin: 8px;
   font-family: cursive;
-  padding: 8px;
-  background-color: #00ff00;
+  padding: 2px;
+  background-color: white;
   border: 8px solid black;
+}
+.well {
+  color: white;
+  background-image: url("../img/jazz.jpg");
 }
