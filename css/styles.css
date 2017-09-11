@@ -1,21 +1,33 @@
-img.philly {
+img.ballard {
+  text-align: left;
   height: 400px;
   width: 600px;
 }
-
 .jumbotron {
   background-color: #0000aa;
   background-image: url("../img/piano.jpg");
+  text-align: right;
+}
+
+img.philly {
+  height: 400px;
+  width: 600px;
   text-align: center;
 }
 
-h1.panel panel-primary {
+h3 {
+  font-size: 44px;
   text-align: center;
-  font-family: fantasy;
+}
+
+h1.panel {
+  text-align: center;
+  font-family: cursive;
   font-size: 58px;
 }
 
 h2 {
+  color: #0000aa;
   text-align: center;
   color: black;
   font-size: 68px;
@@ -31,14 +43,10 @@ h2 {
   background-color: #00ff00;
 }
 
-img.philly {
-  height: 400px;
-  width: 600px;
-}
-
 img.florida {
   height: 400px;
   width: 600px;
+  text-align: left;
 }
 
 .panel {
@@ -49,5 +57,4 @@ img.florida {
   padding: 8px;
   background-color: #00ff00;
   border: 8px solid black;
-  background-image: image("../img/piano.jpg");
 }
