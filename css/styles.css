@@ -8,7 +8,7 @@ img.ballard {
 }
 
 .jumbotron {
-  background-image: url("../img/piano.jpg");
+  background-image: url("../img/jazz.jpg");
 }
 
 img.philly {
@@ -27,6 +27,7 @@ h1.panel {
   text-align: center;
   font-family: cursive;
   font-size: 58px;
+  color: white;
 }
 
 h2 {
@@ -50,17 +51,22 @@ img.florida {
   width: 600px;
   text-align: left;
 }
-
 .panel {
   text-align: left;
   font-size: 24px;
   margin: 8px;
   font-family: cursive;
   padding: 2px;
-  background-color: white;
+  background-image: url("../img/piano.jpg");
   border: 8px solid black;
 }
 .well {
+  float: right;
   color: white;
-  background-image: url("../img/jazz.jpg");
+  background-image: url("../img/hands.jpg");
+}
+
+.epicodus {
+  font-size: 28px;
+  color: blue;
 }
