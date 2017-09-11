@@ -1,6 +1,5 @@
 # Portfolio-Landing-Page-sept-17
 This will later act as a landing page for my programming portfolio.
-# _{Application Name}_
 
 #### _{Portfolio Landing Page}, {September 2017}_
 
