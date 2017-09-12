@@ -1,7 +1,7 @@
 # Portfolio-Landing-Page-sept-17
-This will later act as a landing page for my programming portfolio. My plan is to showcase my projects that I think are the most polished, but for now, I'd just like to share a few that I've worked on with other classmates. 
+This will later act as a landing page for my programming and coding portfolio. My plan is to showcase my projects that I think are the most polished, but for now, I'd just like to share a few that I've worked on with other classmates.
 
-#### _{Portfolio Landing Page}, {September 2017}_
+#### _Portfolio Landing Page, September 2017
 
 #### By _**{Victor M. Puentes Jr.}**_
 
@@ -11,22 +11,22 @@ This Page is where I would like people to land on my Github account so that may 
 
 ## Setup/Installation Requirements
 
-* _Any web browser will do.
+* Any web browser will do.
 
 ## Known Bugs
 
-_{No known bugs. }_
+No known bugs. 
 
 ## Support and contact details
 
-_{For any questions contact vmpuentes@gmail.com.}_
+For any questions contact vmpuentes@gmail.com.
 
 ## Technologies Used
 
-_{HTML and CSS, Bootstrap.}_
+HTML,CSS, and Bootstrap.
 
 ### License
 
-*{MIT license.}*
+MIT license.
 
 Copyright (c) 2017 **_{Epicodus}_**
