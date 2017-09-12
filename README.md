@@ -1,7 +1,7 @@
 # Portfolio-Landing-Page-sept-17
 This will later act as a landing page for my programming and coding portfolio. My plan is to showcase my projects that I think are the most polished, but for now, I'd just like to share a few that I've worked on with other classmates.
 
-#### _Portfolio Landing Page, September 2017
+#### Portfolio Landing Page, September 2017
 
 #### By _**Victor M. Puentes Jr.**_
 
