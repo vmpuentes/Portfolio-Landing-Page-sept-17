@@ -1,5 +1,5 @@
 # Portfolio-Landing-Page-sept-17
-This will later act as a landing page for my programming portfolio.
+This will later act as a landing page for my programming portfolio. My plan is to showcase my projects that I think are the most polished, but for now, I'd just like to share a few that I've worked on with other classmates. 
 
 #### _{Portfolio Landing Page}, {September 2017}_
 
@@ -7,7 +7,7 @@ This will later act as a landing page for my programming portfolio.
 
 ## Description
 
-_{This Page is where I would like people to land on my Github account so that may have a glimpse of what coding projects I have worked on.}_
+This Page is where I would like people to land on my Github account so that may have a glimpse of what coding projects I have worked on. 
 
 ## Setup/Installation Requirements
 
