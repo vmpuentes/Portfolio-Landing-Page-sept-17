@@ -3,7 +3,7 @@ This will later act as a landing page for my programming and coding portfolio. M
 
 #### _Portfolio Landing Page, September 2017
 
-#### By _**{Victor M. Puentes Jr.}**_
+#### By _**Victor M. Puentes Jr.**_
 
 ## Description
 
