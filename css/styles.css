@@ -48,12 +48,13 @@ img.florida {
 }
 
 .well {
-  text-align: left;
+  float: left;
   color: white;
   background-image: url("../img/hands.jpg");
 }
 
 .panel {
+  color: yellow;
   text-align: left;
   font-size: 24px;
   margin: 8px;
@@ -61,6 +62,10 @@ img.florida {
   padding: 2px;
   background-image: url("../img/piano.jpg");
   border: 8px solid black;
+}
+
+a.anc {
+  color: yellow;
 }
 
 .epicodus {
