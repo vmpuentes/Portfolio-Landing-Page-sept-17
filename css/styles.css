@@ -9,7 +9,10 @@
 img.philly {
   height: 400px;
   width: 600px;
-  text-align: center;
+}
+
+p {
+  color: #08ffbb;
 }
 
 h3 {
@@ -20,36 +23,41 @@ h3 {
 
 h1.panel {
   text-align: center;
-  font-family: cursive;
   font-size: 58px;
   color: white;
 }
 
 h2 {
-  color:  white;
+  color:  #08ffbb;
   text-align: center;
   font-size: 68px;
-  font-family: cursive;
+}
+
+ul {
+  font-size: 20px;
+  color: #08ffbb;
+  float: left;
+  font-weight: bolder;
+  text-align: left;
 }
 
 .boxmodel {
-  text-align: center;
-  float: right;
+  color: #08ffbb;
   margin: 18px;
-  border: 8px solid black;
+  border: 8px solid #08ffbb;
   padding: 8px;
   background-image: url("../img/wc.jpg">)
 }
 
 img.florida {
+  float: right;
   height: 400px;
   width: 600px;
-  text-align: left;
 }
 
 .well {
   float: left;
-  color: white;
+  color: #08ffbb;
   background-image: url("../img/hands.jpg");
 }
 
@@ -58,10 +66,9 @@ img.florida {
   text-align: left;
   font-size: 24px;
   margin: 8px;
-  font-family: cursive;
   padding: 2px;
   background-image: url("../img/piano.jpg");
-  border: 8px solid black;
+  border: 8px solid #08ffbb;
 }
 
 a.anc {
