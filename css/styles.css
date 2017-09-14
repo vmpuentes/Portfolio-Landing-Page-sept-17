@@ -1,8 +1,3 @@
-img.ballard {
-  text-align: left;
-  height: 400px;
-  width: 600px;
-}
 .container {
   background-image: url("../img/wc.jpg");
 }
@@ -51,6 +46,13 @@ img.florida {
   width: 600px;
   text-align: left;
 }
+
+.well {
+  text-align: left;
+  color: white;
+  background-image: url("../img/hands.jpg");
+}
+
 .panel {
   text-align: left;
   font-size: 24px;
@@ -60,13 +62,13 @@ img.florida {
   background-image: url("../img/piano.jpg");
   border: 8px solid black;
 }
-.well {
-  float: right;
-  color: white;
-  background-image: url("../img/hands.jpg");
-}
 
 .epicodus {
   font-size: 28px;
-  color: blue;
+  color: Yellow;
+}
+img.ballard {
+  float: right;
+  height: 250px;
+  width: auto;
 }
